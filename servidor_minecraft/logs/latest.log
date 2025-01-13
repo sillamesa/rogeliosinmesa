@@ -2078,3 +2078,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [13Jan2025 23:05:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panditafun> B
 [13Jan2025 23:06:01.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
 [13Jan2025 23:06:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[13Jan2025 23:20:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NormalXY's game mode to Survival Mode
+[13Jan2025 23:25:42.547] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[13Jan2025 23:25:42.547] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[13Jan2025 23:25:42.569] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[13Jan2025 23:26:09.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
+[13Jan2025 23:26:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
