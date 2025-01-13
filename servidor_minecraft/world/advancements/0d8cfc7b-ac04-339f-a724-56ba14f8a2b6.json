@@ -1577,15 +1577,17 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-01-12 23:23:32 +0000",
-      "has_black_apricorn": "2025-01-12 23:18:08 +0000"
+      "has_black_apricorn": "2025-01-12 23:18:08 +0000",
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-01-12 23:18:08 +0000"
+      "has_black_apricorn": "2025-01-12 23:18:08 +0000",
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
@@ -1615,9 +1617,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-01-12 23:23:32 +0000",
-      "has_black_apricorn": "2025-01-12 23:18:08 +0000"
+      "has_black_apricorn": "2025-01-12 23:18:08 +0000",
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -1627,7 +1630,8 @@
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-01-12 23:18:08 +0000"
+      "has_black_apricorn": "2025-01-12 23:18:08 +0000",
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
     },
     "done": false
   },
@@ -1640,6 +1644,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "heavy_ball": "2025-01-13 03:29:01 +0000",
+      "ultra_ball": "2025-01-13 18:46:59 +0000",
       "slate_ball": "2025-01-12 23:18:40 +0000"
     },
     "done": false
@@ -1664,9 +1669,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-01-12 23:23:32 +0000"
+      "has_blue_apricorn": "2025-01-12 23:23:32 +0000",
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
@@ -1695,7 +1701,8 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-01-12 23:23:32 +0000"
+      "has_blue_apricorn": "2025-01-12 23:23:32 +0000",
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
     },
     "done": false
   },
@@ -1972,15 +1979,17 @@
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000",
       "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000",
       "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
@@ -2029,6 +2038,73 @@
       "has_coin": "2025-01-13 05:55:06 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-13 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
+    },
+    "done": false
+  },
+  "megamons:recipes/tools/mega_cuff": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-13 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000",
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-01-13 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-13 18:44:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-13 18:44:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
