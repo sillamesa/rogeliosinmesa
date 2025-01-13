@@ -826,3 +826,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 03:48:19.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY was slain by Folkmateo03
 [13Jan2025 03:48:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has made the advancement [The Root of Basic Healing]
 [13Jan2025 03:49:24.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun has made the advancement [The Root of Basic Healing]
+[13Jan2025 03:52:07.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[13Jan2025 03:52:07.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[13Jan2025 03:52:07.473] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jan2025 03:56:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Ice Bucket Challenge]
+[13Jan2025 03:57:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Take Good Care!]
+[13Jan2025 03:57:50.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has made the advancement [Hard Work and Dedication]

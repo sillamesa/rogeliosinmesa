@@ -1330,6 +1330,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
@@ -1342,9 +1348,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
     },
     "done": true
   },
@@ -1378,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 03:47:24 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/heat_rock": {
     "criteria": {
       "has_stone": "2025-01-13 03:42:50 +0000"
@@ -1399,6 +1423,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-13 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2025-01-13 03:49:24 +0000"
     },
     "done": true
   },

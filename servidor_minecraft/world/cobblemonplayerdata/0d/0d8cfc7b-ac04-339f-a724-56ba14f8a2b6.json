@@ -10,13 +10,13 @@
   "advancementData": {
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
+    "totalEvolvedCount": 1,
     "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 1,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "flying": 2,
