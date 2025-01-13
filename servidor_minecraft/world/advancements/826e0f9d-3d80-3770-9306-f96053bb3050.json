@@ -350,7 +350,8 @@
     "criteria": {
       "obtain_lum_berry": "2025-01-12 23:18:49 +0000",
       "obtain_razz_berry": "2025-01-12 22:54:38 +0000",
-      "obtain_oran_berry": "2025-01-12 22:22:06 +0000"
+      "obtain_oran_berry": "2025-01-12 22:22:06 +0000",
+      "obtain_wepear_berry": "2025-01-13 05:06:28 +0000"
     },
     "done": false
   },
@@ -1451,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-13 05:06:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/soft_sand": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
@@ -1466,6 +1473,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-13 05:06:28 +0000"
     },
     "done": true
   },
@@ -1490,6 +1503,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-13 05:06:28 +0000"
     },
     "done": true
   },
@@ -1595,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 05:07:14 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/restoration_tank": {
     "criteria": {
       "has_glass": "2025-01-13 04:34:25 +0000"
@@ -1676,6 +1701,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 05:07:14 +0000"
     },
     "done": true
   },
@@ -1772,6 +1803,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 05:07:14 +0000"
     },
     "done": true
   },

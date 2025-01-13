@@ -867,3 +867,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 04:45:17.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NormalXY> ya vete se me va pegar lo jei
 [13Jan2025 04:45:31.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7212, l='ServerLevel[world]', x=427.58, y=67.00, z=-366.34] died, message: 'Villager was slain by panditafun'
 [13Jan2025 04:59:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panditafun> el que no se mueva es jei
+[13Jan2025 05:12:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Folkmateo03> voy a ir a explorar
+[13Jan2025 05:12:47.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Only players may be affected by this command, but the provided selector includes entities
+[13Jan2025 05:12:47.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg @e el que se mueva es jei<--[HERE]
+[13Jan2025 05:13:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Folkmateo03: si te mueves eres jei
