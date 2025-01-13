@@ -851,3 +851,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 04:28:33.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.16.234.179:33191] logged in with entity id 30359 at (389.553757824948, 64.0, -377.09118666744024)
 [13Jan2025 04:28:33.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
 [13Jan2025 04:31:57.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun has made the advancement [There's a Leek in the Boat!]
+[13Jan2025 04:38:05.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=415, y=66, z=-509} BlockPos{x=412, y=66, z=-506}
+[13Jan2025 04:38:26.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7200, l='ServerLevel[world]', x=408.51, y=68.00, z=-360.34] died, message: 'Librarian was slain by panditafun'
+[13Jan2025 04:38:55.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7204, l='ServerLevel[world]', x=404.48, y=68.00, z=-352.83] died, message: 'Villager was slain by panditafun'
+[13Jan2025 04:39:19.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Folkmateo03> kike
+[13Jan2025 04:39:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NormalXY> que
+[13Jan2025 04:39:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Folkmateo03> tas silenciado
+[13Jan2025 04:41:42.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NormalXY> ya se
