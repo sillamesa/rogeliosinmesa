@@ -15,8 +15,10 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-01-12 22:13:08 +0000",
       "minecraft:sunflower_plains": "2025-01-12 22:12:19 +0000",
+      "minecraft:beach": "2025-01-13 05:29:10 +0000",
       "minecraft:river": "2025-01-13 00:42:53 +0000",
       "minecraft:stony_shore": "2025-01-12 23:19:59 +0000",
+      "minecraft:cold_ocean": "2025-01-13 05:27:53 +0000",
       "minecraft:forest": "2025-01-13 00:45:33 +0000",
       "minecraft:ocean": "2025-01-13 03:25:40 +0000",
       "minecraft:plains": "2025-01-12 22:17:55 +0000"
@@ -229,6 +231,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-13 05:26:48 +0000",
       "beef": "2025-01-12 22:29:18 +0000",
       "porkchop": "2025-01-12 22:46:50 +0000",
       "potato": "2025-01-12 22:23:01 +0000",
@@ -1893,6 +1896,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/soft_sand": {
+    "criteria": {
+      "has_sand": "2025-01-13 05:29:49 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
@@ -1902,6 +1911,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-13 05:29:49 +0000"
     },
     "done": true
   },
@@ -1947,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-13 05:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
@@ -1974,6 +1995,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-13 05:29:49 +0000"
     },
     "done": true
   },

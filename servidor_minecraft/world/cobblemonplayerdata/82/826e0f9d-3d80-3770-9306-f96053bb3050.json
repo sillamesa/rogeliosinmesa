@@ -11,9 +11,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 46,
+    "totalBattleVictoryCount": 47,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 46,
+    "totalPvWBattleVictoryCount": 47,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -51,7 +51,8 @@
       "cobblemon:yamper": 1,
       "cobblemon:buizel": 1,
       "cobblemon:koffing": 1,
-      "cobblemon:klefki": 1
+      "cobblemon:klefki": 1,
+      "cobblemon:granbull": 1
     },
     "aspectsCollected": {}
   }

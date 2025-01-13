@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 6,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -23,7 +23,8 @@
       "ghost": 1,
       "poison": 1,
       "fire": 1,
-      "electric": 1
+      "electric": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:sentret": 1,
