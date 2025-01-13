@@ -2084,3 +2084,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [13Jan2025 23:25:42.569] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [13Jan2025 23:26:09.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
 [13Jan2025 23:26:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
+[13Jan2025 23:32:39.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Bring Home the Beacon]
+[13Jan2025 23:32:44.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Folkmateo03[/127.198.177.103:34929] logged in with entity id 104429 at (416.0789358581292, 65.0, -465.09441654493276)
+[13Jan2025 23:32:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 joined the game
+[13Jan2025 23:33:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NormalXY's game mode to Creative Mode
+[13Jan2025 23:35:16.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NormalXY's game mode to Survival Mode
+[13Jan2025 23:35:58.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.16.234.179:51479] logged in with entity id 105600 at (1655.6760479965712, 71.0, 2444.4341549664346)
+[13Jan2025 23:35:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game

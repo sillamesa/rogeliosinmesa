@@ -3226,6 +3226,24 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-01-13 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-01-13 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-01-13 21:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3292,12 +3310,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-01-13 21:17:20 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3349,18 +3361,6 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:standard_from_custom": {
-    "criteria": {
-      "has_backpack": "2025-01-13 21:17:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond_smithing": {
-    "criteria": {
-      "has_diamond": "2025-01-13 21:17:33 +0000"
     },
     "done": true
   },
@@ -3454,12 +3454,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2025-01-13 22:10:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3502,12 +3496,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/covert_cloak": {
-    "criteria": {
-      "has_membrane": "2025-01-13 21:39:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3520,21 +3508,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-01-13 22:31:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_hedge": {
-    "criteria": {
-      "has_leaves": "2025-01-13 21:36:08 +0000"
     },
     "done": true
   },
@@ -3547,12 +3523,6 @@
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/reaper_cloth": {
-    "criteria": {
-      "has_membrane": "2025-01-13 21:39:21 +0000"
     },
     "done": true
   },
@@ -3571,6 +3541,36 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-01-13 21:36:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-01-13 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-01-13 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-13 22:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-13 22:31:06 +0000"
     },
     "done": true
   },
