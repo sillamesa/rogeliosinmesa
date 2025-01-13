@@ -349,6 +349,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_shuca_berry": "2025-01-13 06:05:38 +0000",
       "obtain_babiri_berry": "2025-01-13 05:26:29 +0000",
       "obtain_lum_berry": "2025-01-12 23:18:49 +0000",
       "obtain_razz_berry": "2025-01-12 22:54:38 +0000",
@@ -1485,6 +1486,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/magmarizer": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 06:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-01-13 05:06:28 +0000"
@@ -1512,6 +1519,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 06:05:38 +0000"
     },
     "done": true
   },
@@ -1704,6 +1717,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-13 05:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 06:05:38 +0000"
     },
     "done": true
   },
@@ -1971,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 06:05:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-13 05:56:31 +0000"
@@ -2046,6 +2071,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-13 04:33:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/focus_sash": {
+    "criteria": {
+      "has_powder": "2025-01-13 06:05:38 +0000"
     },
     "done": true
   },

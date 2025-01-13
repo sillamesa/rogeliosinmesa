@@ -11,9 +11,9 @@
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 8,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 8,
+    "totalPvWBattleVictoryCount": 9,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -28,7 +28,7 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:sentret": 1,
-      "cobblemon:zigzagoon": 1
+      "cobblemon:zigzagoon": 2
     },
     "aspectsCollected": {}
   }
