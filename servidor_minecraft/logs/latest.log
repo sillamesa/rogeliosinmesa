@@ -2033,3 +2033,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [13Jan2025 20:53:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
 [13Jan2025 20:56:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Not Today, Thank You]
 [13Jan2025 21:03:59.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Enchanter]
+[13Jan2025 21:12:16.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
+[13Jan2025 21:12:16.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
+[13Jan2025 21:14:54.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Folkmateo03[/127.198.177.103:56965] logged in with entity id 18017 at (409.2438792597973, 68.0, -357.22680648422613)
+[13Jan2025 21:14:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 joined the game
+[13Jan2025 21:16:56.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
+[13Jan2025 21:16:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
+[13Jan2025 21:17:13.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Folkmateo03[/127.198.177.103:54765] logged in with entity id 18629 at (405.39225581591364, 68.0, -356.3532573383497)
+[13Jan2025 21:17:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 joined the game
