@@ -243,6 +243,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-13 04:15:31 +0000",
       "minecraft:skeleton": "2025-01-12 22:23:26 +0000",
+      "minecraft:ravager": "2025-01-13 05:21:49 +0000",
       "minecraft:spider": "2025-01-12 23:24:50 +0000",
       "minecraft:creeper": "2025-01-13 04:39:43 +0000",
       "minecraft:cave_spider": "2025-01-12 22:47:52 +0000",
@@ -1589,7 +1590,8 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-01-12 23:18:08 +0000"
+      "has_black_apricorn": "2025-01-12 23:18:08 +0000",
+      "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
     },
     "done": false
   },
@@ -1663,7 +1665,8 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-01-12 23:23:32 +0000"
+      "has_blue_apricorn": "2025-01-12 23:23:32 +0000",
+      "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
     },
     "done": false
   },
@@ -1890,6 +1893,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
@@ -1907,6 +1916,12 @@
       "has_planks": "2025-01-13 04:32:35 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
@@ -1938,6 +1953,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-13 05:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
@@ -1959,6 +1980,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-13 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-13 05:20:38 +0000"
     },
     "done": true
   },
