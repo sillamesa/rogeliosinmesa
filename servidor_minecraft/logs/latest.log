@@ -2031,3 +2031,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [13Jan2025 20:45:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY joined the game
 [13Jan2025 20:53:35.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.179.23.33:50057] logged in with entity id 3659 at (505.10145268733385, 87.0, -297.41641095409943)
 [13Jan2025 20:53:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
+[13Jan2025 20:56:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Not Today, Thank You]
+[13Jan2025 21:03:59.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Enchanter]
