@@ -1344,6 +1344,7 @@
     "criteria": {
       "great_ball": "2025-01-12 22:49:00 +0000",
       "heavy_ball": "2025-01-12 22:48:56 +0000",
+      "ultra_ball": "2025-01-13 19:29:38 +0000",
       "slate_ball": "2025-01-12 22:41:21 +0000",
       "poke_ball": "2025-01-12 22:49:08 +0000"
     },
@@ -2034,15 +2035,33 @@
     },
     "done": true
   },
+  "megamons:recipes/misc/shiny_stone_from_smelting_crystal_shiny_stone_ore": {
+    "criteria": {
+      "has_crystal_shiny_stone_ore": "2025-01-13 19:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-13 19:17:47 +0000"
     },
     "done": true
   },
+  "megamons:recipes/misc/shiny_stone_from_blasting_crystal_shiny_stone_ore": {
+    "criteria": {
+      "has_crystal_shiny_stone_ore": "2025-01-13 19:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-13 19:17:47 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_ore_or_stone": {
+    "criteria": {
+      "has_any_raw_ore": "2025-01-13 19:40:57 +0000"
     },
     "done": true
   },
@@ -2085,6 +2104,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-13 19:02:51 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/dawn_stone_from_smelting_crystal_dawn_stone_ore": {
+    "criteria": {
+      "has_crystal_dawn_stone_ore": "2025-01-13 19:36:36 +0000"
     },
     "done": true
   },
@@ -2172,6 +2197,12 @@
     },
     "done": true
   },
+  "megamons:recipes/misc/raw_gardevoirite_from_blasting_gardevoirite_crystal_ore": {
+    "criteria": {
+      "has_gardevoirite_crystal_ore": "2025-01-13 19:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-13 19:02:51 +0000"
@@ -2220,6 +2251,18 @@
     },
     "done": true
   },
+  "megamons:megamons": {
+    "criteria": {
+      "has_crystal_geode_block": "2025-01-13 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/dawn_stone_from_blasting_crystal_dawn_stone_ore": {
+    "criteria": {
+      "has_crystal_dawn_stone_ore": "2025-01-13 19:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-01-13 19:17:47 +0000"
@@ -2229,6 +2272,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-13 18:55:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-01-13 19:32:37 +0000"
     },
     "done": true
   },
@@ -2295,6 +2344,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-13 19:02:29 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/raw_gardevoirite_from_smelting_gardevoirite_crystal_ore": {
+    "criteria": {
+      "has_gardevoirite_crystal_ore": "2025-01-13 19:40:57 +0000"
     },
     "done": true
   },
