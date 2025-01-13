@@ -1312,27 +1312,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-01-13 03:43:26 +0000"
-    },
-    "done": true
-  },
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2025-01-13 03:42:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
+  "cobblemon:recipes/held/mystic_water": {
+    "criteria": {
+      "has_water": "2025-01-13 03:42:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/damp_rock": {
+    "criteria": {
+      "has_stone": "2025-01-13 03:42:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2025-01-13 03:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/remedy": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_root": "2025-01-13 03:49:24 +0000"
+      "has_diamond": "2025-01-13 03:43:26 +0000"
     },
     "done": true
   },
@@ -1348,21 +1360,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/remedy_by_smoking": {
-    "criteria": {
-      "has_root": "2025-01-13 03:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/remedy_by_campfire": {
-    "criteria": {
-      "has_root": "2025-01-13 03:49:24 +0000"
     },
     "done": true
   },
@@ -1378,33 +1378,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/mystic_water": {
-    "criteria": {
-      "has_water": "2025-01-13 03:42:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/damp_rock": {
-    "criteria": {
-      "has_stone": "2025-01-13 03:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 03:47:24 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/heat_rock": {
-    "criteria": {
-      "has_stone": "2025-01-13 03:42:50 +0000"
     },
     "done": true
   },
@@ -1426,12 +1402,6 @@
     },
     "done": true
   },
-  "cobblemon:obtain_big_root": {
-    "criteria": {
-      "check_inv": "2025-01-13 03:49:24 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/balls/beast_ball": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
@@ -1441,6 +1411,66 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-13 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 03:47:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2025-01-13 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2025-01-13 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2025-01-13 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2025-01-13 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2025-01-13 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2025-01-13 04:31:57 +0000"
     },
     "done": true
   },

@@ -1792,9 +1792,15 @@
     },
     "done": true
   },
-  "cobblemon:full_party": {
+  "cobblemon:craft_apricorn_balls": {
     "criteria": {
-      "full_party": "2025-01-13 04:13:49 +0000"
+      "heavy_ball": "2025-01-13 03:29:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-13 03:34:29 +0000"
     },
     "done": true
   },
@@ -1810,27 +1816,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/consumables/remedy_by_smoking": {
     "criteria": {
       "has_root": "2025-01-13 03:48:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-13 04:15:31 +0000"
     },
     "done": true
   },
@@ -1840,27 +1828,15 @@
     },
     "done": true
   },
-  "cobblemon:craft_apricorn_balls": {
+  "cobblemon:obtain_big_root": {
     "criteria": {
-      "heavy_ball": "2025-01-13 03:29:01 +0000"
+      "check_inv": "2025-01-13 03:48:46 +0000"
     },
-    "done": false
-  },
-  "cobblemon:evolve_veevees": {
-    "criteria": {
-      "evolve_vaporeon": "2025-01-13 03:57:50 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-13 03:51:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-13 03:34:29 +0000"
     },
     "done": true
   },
@@ -1870,21 +1846,57 @@
     },
     "done": true
   },
+  "cobblemon:evolve_veevees": {
+    "criteria": {
+      "evolve_vaporeon": "2025-01-13 03:57:50 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-01-13 03:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-01-13 04:13:49 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_shiny_catch": {
     "criteria": {
       "catch": "2025-01-13 04:13:49 +0000"
     },
     "done": true
   },
-  "cobblemon:obtain_big_root": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "check_inv": "2025-01-13 03:48:46 +0000"
+      "voluntary_exile": "2025-01-13 04:15:31 +0000"
     },
     "done": true
   },
-  "cobblemon:first_evolution": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "evolve": "2025-01-13 03:57:50 +0000"
+      "has_log": "2025-01-13 04:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 04:30:57 +0000"
     },
     "done": true
   },

@@ -840,3 +840,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 04:21:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
 [13Jan2025 04:22:27.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.16.234.179:36365] logged in with entity id 28757 at (418.0914958257711, 67.0, -353.9313208754422)
 [13Jan2025 04:22:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
+[13Jan2025 04:25:24.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Folkmateo03[/127.198.177.103:39235] logged in with entity id 29450 at (423.6409915534671, 64.0, -481.7155543990118)
+[13Jan2025 04:25:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 joined the game
+[13Jan2025 04:25:27.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Timed out
+[13Jan2025 04:25:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[13Jan2025 04:27:05.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
+[13Jan2025 04:27:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
+[13Jan2025 04:27:11.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Folkmateo03[/127.198.177.103:39885] logged in with entity id 29915 at (417.7027959595358, 63.0, -477.828657135717)
+[13Jan2025 04:27:11.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 joined the game
+[13Jan2025 04:28:33.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.16.234.179:33191] logged in with entity id 30359 at (389.553757824948, 64.0, -377.09118666744024)
+[13Jan2025 04:28:33.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
+[13Jan2025 04:31:57.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun has made the advancement [There's a Leek in the Boat!]
