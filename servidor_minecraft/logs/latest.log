@@ -833,3 +833,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Jan2025 03:57:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Take Good Care!]
 [13Jan2025 03:57:50.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has made the advancement [Hard Work and Dedication]
 [13Jan2025 04:08:03.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NormalXY> aaaaaaaaaa
+[13Jan2025 04:13:49.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has made the advancement [Full House]
+[13Jan2025 04:13:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has completed the challenge [Lucky Color]
+[13Jan2025 04:15:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 has made the advancement [Voluntary Exile]
+[13Jan2025 04:21:50.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Folkmateo03 lost connection: Disconnected
+[13Jan2025 04:21:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Folkmateo03 left the game
+[13Jan2025 04:22:27.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.16.234.179:36365] logged in with entity id 28757 at (418.0914958257711, 67.0, -353.9313208754422)
+[13Jan2025 04:22:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game

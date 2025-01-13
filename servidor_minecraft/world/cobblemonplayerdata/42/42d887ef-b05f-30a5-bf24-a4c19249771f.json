@@ -11,9 +11,9 @@
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 23,
+    "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 22,
+    "totalPvWBattleVictoryCount": 24,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -30,7 +30,9 @@
       "cobblemon:slowpoke": 1,
       "cobblemon:drifloon": 1,
       "cobblemon:buizel": 1,
-      "cobblemon:taillow": 1
+      "cobblemon:taillow": 1,
+      "cobblemon:seedot": 1,
+      "cobblemon:buneary": 1
     },
     "aspectsCollected": {}
   }
