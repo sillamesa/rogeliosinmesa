@@ -11,9 +11,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 40,
+    "totalBattleVictoryCount": 41,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 39,
+    "totalPvWBattleVictoryCount": 40,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 1,
@@ -41,7 +41,8 @@
       "cobblemon:stonjourner": 2,
       "cobblemon:weedle": 2,
       "cobblemon:pidgey": 1,
-      "cobblemon:teddiursa": 1
+      "cobblemon:teddiursa": 1,
+      "cobblemon:misdreavus": 1
     },
     "aspectsCollected": {}
   }

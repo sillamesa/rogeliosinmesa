@@ -2069,3 +2069,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [13Jan2025 22:49:26.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [13Jan2025 22:49:26.610] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [13Jan2025 22:55:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Hidden in the Depths]
+[13Jan2025 22:57:23.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NormalXY lost connection: Disconnected
+[13Jan2025 22:57:23.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY left the game
+[13Jan2025 22:57:58.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NormalXY[/127.192.229.186:48193] logged in with entity id 90320 at (-429.69999998807907, 11.0, 256.50054251290265)
+[13Jan2025 22:57:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY joined the game
+[13Jan2025 23:04:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set NormalXY's game mode to Creative Mode
+[13Jan2025 23:05:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panditafun> B
+[13Jan2025 23:05:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <panditafun> B
+[13Jan2025 23:06:01.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[13Jan2025 23:06:01.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game

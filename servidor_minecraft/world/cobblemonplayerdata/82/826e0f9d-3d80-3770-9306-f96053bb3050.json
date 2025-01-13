@@ -11,9 +11,9 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 72,
+    "totalBattleVictoryCount": 73,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 72,
+    "totalPvWBattleVictoryCount": 73,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -65,7 +65,8 @@
       "cobblemon:maschiff": 1,
       "cobblemon:slowpoke": 1,
       "cobblemon:deerling": 1,
-      "cobblemon:mrmime": 1
+      "cobblemon:mrmime": 1,
+      "cobblemon:gimmighoul": 1
     },
     "aspectsCollected": {}
   }
