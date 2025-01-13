@@ -1803,9 +1803,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/remedy_by_smoking": {
     "criteria": {
       "has_root": "2025-01-13 03:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-13 03:58:04 +0000"
     },
     "done": true
   },
@@ -1818,6 +1830,12 @@
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "heavy_ball": "2025-01-13 03:29:01 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:evolve_veevees": {
+    "criteria": {
+      "evolve_vaporeon": "2025-01-13 03:57:50 +0000"
     },
     "done": false
   },
@@ -1842,6 +1860,12 @@
   "cobblemon:obtain_big_root": {
     "criteria": {
       "check_inv": "2025-01-13 03:48:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-01-13 03:57:50 +0000"
     },
     "done": true
   },
