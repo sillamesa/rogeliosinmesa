@@ -8,22 +8,23 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 67,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 72,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 67,
+    "totalPvWBattleVictoryCount": 72,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
       "fire": 2,
-      "water": 1,
+      "water": 2,
       "psychic": 1,
       "electric": 1,
       "grass": 1,
-      "dark": 1
+      "dark": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 5,
@@ -45,12 +46,12 @@
       "cobblemon:watchog": 1,
       "cobblemon:timburr": 1,
       "cobblemon:sentret": 2,
-      "cobblemon:snubbull": 1,
+      "cobblemon:snubbull": 2,
       "cobblemon:bouffalant": 3,
       "cobblemon:lechonk": 3,
       "cobblemon:growlithe": 2,
       "cobblemon:stonjourner": 1,
-      "cobblemon:yamper": 1,
+      "cobblemon:yamper": 2,
       "cobblemon:buizel": 1,
       "cobblemon:koffing": 1,
       "cobblemon:klefki": 1,
@@ -62,7 +63,9 @@
       "cobblemon:minun": 1,
       "cobblemon:farfetchd": 1,
       "cobblemon:maschiff": 1,
-      "cobblemon:slowpoke": 1
+      "cobblemon:slowpoke": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:mrmime": 1
     },
     "aspectsCollected": {}
   }

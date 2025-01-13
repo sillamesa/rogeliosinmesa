@@ -20,6 +20,7 @@
       "minecraft:dripstone_caves": "2025-01-13 18:53:25 +0000",
       "minecraft:forest": "2025-01-13 03:34:51 +0000",
       "minecraft:flower_forest": "2025-01-13 18:46:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-13 21:42:10 +0000",
       "minecraft:meadow": "2025-01-13 18:51:18 +0000",
       "minecraft:plains": "2025-01-12 22:17:34 +0000"
     },
@@ -101,7 +102,8 @@
       "apple": "2025-01-12 22:21:47 +0000",
       "potato": "2025-01-13 03:52:09 +0000",
       "bread": "2025-01-12 22:18:21 +0000",
-      "rotten_flesh": "2025-01-13 19:14:37 +0000"
+      "rotten_flesh": "2025-01-13 19:14:37 +0000",
+      "enchanted_golden_apple": "2025-01-13 22:22:51 +0000"
     },
     "done": false
   },
@@ -551,6 +553,8 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_payapa_berry": "2025-01-13 22:26:08 +0000",
+      "obtain_chesto_berry": "2025-01-13 21:42:01 +0000",
       "obtain_razz_berry": "2025-01-13 05:20:29 +0000",
       "obtain_oran_berry": "2025-01-12 22:24:19 +0000",
       "obtain_cheri_berry": "2025-01-12 22:38:51 +0000",
@@ -568,10 +572,14 @@
     "criteria": {
       "minecraft:pillager": "2025-01-12 23:36:46 +0000",
       "minecraft:skeleton": "2025-01-12 23:22:19 +0000",
+      "minecraft:hoglin": "2025-01-13 22:21:31 +0000",
       "minecraft:vindicator": "2025-01-12 23:43:14 +0000",
       "minecraft:spider": "2025-01-12 23:40:54 +0000",
+      "minecraft:piglin_brute": "2025-01-13 22:19:58 +0000",
       "minecraft:creeper": "2025-01-13 03:35:29 +0000",
       "minecraft:witch": "2025-01-13 05:54:24 +0000",
+      "minecraft:piglin": "2025-01-13 22:18:04 +0000",
+      "minecraft:enderman": "2025-01-13 21:39:46 +0000",
       "minecraft:zombie": "2025-01-12 22:22:57 +0000",
       "minecraft:drowned": "2025-01-13 20:52:20 +0000"
     },
@@ -2379,6 +2387,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-13 22:32:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
@@ -2403,6 +2423,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/flame_orb": {
+    "criteria": {
+      "has_orb": "2025-01-13 22:40:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-01-13 20:45:33 +0000"
@@ -2421,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-01-13 20:45:33 +0000"
@@ -2430,6 +2462,12 @@
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-13 22:16:30 +0000"
     },
     "done": true
   },
@@ -2448,6 +2486,12 @@
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-13 22:30:33 +0000"
     },
     "done": true
   },
@@ -2493,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-01-13 20:45:33 +0000"
@@ -2534,6 +2584,14 @@
       "has_brown_wool": "2025-01-13 21:10:04 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-13 22:17:51 +0000",
+      "minecraft:basalt_deltas": "2025-01-13 22:45:36 +0000",
+      "minecraft:warped_forest": "2025-01-13 22:40:20 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
@@ -2643,6 +2701,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-13 22:17:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
@@ -2676,6 +2740,12 @@
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },
@@ -2748,6 +2818,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 20:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
     },
     "done": true
   },
@@ -2853,6 +2929,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-01-13 21:04:51 +0000"
@@ -2874,6 +2962,12 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-01-13 21:52:00 +0000"
     },
     "done": true
   },
@@ -2919,6 +3013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
@@ -2934,6 +3034,12 @@
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-01-13 22:29:33 +0000"
     },
     "done": true
   },
@@ -2985,6 +3091,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/toxic_orb": {
+    "criteria": {
+      "has_orb": "2025-01-13 22:40:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
@@ -3006,6 +3124,12 @@
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },
@@ -3036,6 +3160,12 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },
@@ -3096,6 +3226,12 @@
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-13 22:28:27 +0000"
     },
     "done": true
   },
@@ -3171,6 +3307,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/amulet_coin": {
+    "criteria": {
+      "is_rich": "2025-01-13 22:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-13 20:57:47 +0000"
@@ -3183,9 +3325,33 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-01-13 22:32:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },
@@ -3228,6 +3394,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-13 22:17:49 +0000"
     },
     "done": true
   },
@@ -3309,6 +3481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
@@ -3330,6 +3508,12 @@
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-13 22:40:54 +0000"
     },
     "done": true
   },
@@ -3381,6 +3565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_sofa": {
     "criteria": {
       "has_wool": "2025-01-13 21:10:04 +0000"
@@ -3411,6 +3601,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-01-13 22:29:13 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/wise_glasses": {
     "criteria": {
       "has_glass": "2025-01-13 20:57:47 +0000"
@@ -3423,15 +3619,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-13 22:32:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
     },
     "done": true
   },
@@ -3450,6 +3670,12 @@
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2025-01-13 22:42:04 +0000"
     },
     "done": true
   },
@@ -3474,6 +3700,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 20:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },
@@ -3531,6 +3769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-13 22:28:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-01-13 20:45:33 +0000"
@@ -3579,6 +3823,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 22:23:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-01-13 22:32:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
@@ -3588,6 +3850,12 @@
   "cfm:recipes/decorations/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 22:18:17 +0000"
     },
     "done": true
   },
@@ -3612,6 +3880,12 @@
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-13 22:20:03 +0000"
     },
     "done": true
   },
@@ -3693,9 +3967,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 22:18:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-13 22:32:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:50:12 +0000"
     },
     "done": true
   },
@@ -3729,6 +4021,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-13 22:28:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/life_orb": {
+    "criteria": {
+      "has_orb": "2025-01-13 22:40:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-01-13 20:53:22 +0000"
@@ -3738,6 +4042,18 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-01-13 20:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-13 22:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-13 22:25:42 +0000"
     },
     "done": true
   },

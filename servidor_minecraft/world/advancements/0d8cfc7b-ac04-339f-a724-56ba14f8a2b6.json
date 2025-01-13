@@ -251,8 +251,11 @@
       "minecraft:ravager": "2025-01-13 05:21:49 +0000",
       "minecraft:spider": "2025-01-12 23:24:50 +0000",
       "minecraft:creeper": "2025-01-13 04:39:43 +0000",
+      "minecraft:phantom": "2025-01-13 21:39:20 +0000",
       "minecraft:cave_spider": "2025-01-12 22:47:52 +0000",
-      "minecraft:zombie": "2025-01-12 22:35:35 +0000"
+      "minecraft:zombie": "2025-01-12 22:35:35 +0000",
+      "minecraft:drowned": "2025-01-13 22:36:50 +0000",
+      "minecraft:zombie_villager": "2025-01-13 22:00:09 +0000"
     },
     "done": false
   },
@@ -3451,6 +3454,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-13 22:10:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3493,6 +3502,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-01-13 21:39:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
@@ -3505,9 +3520,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-13 22:31:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-01-13 21:36:08 +0000"
     },
     "done": true
   },
@@ -3520,6 +3547,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-01-13 21:20:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-01-13 21:39:21 +0000"
     },
     "done": true
   },
