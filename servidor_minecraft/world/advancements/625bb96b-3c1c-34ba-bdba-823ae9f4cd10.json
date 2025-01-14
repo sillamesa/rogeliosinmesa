@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-14 05:45:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-01-14 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "survivallegends:root": {
+    "criteria": {
+      "yak": "2025-01-14 05:45:18 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2025-01-14 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-01-14 05:45:18 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

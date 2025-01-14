@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-14 05:48:08 +0000"
+    },
+    "done": true
+  },
+  "survivallegends:root": {
+    "criteria": {
+      "yak": "2025-01-14 05:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-01-14 05:48:09 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-14 04:49:00 +0000"
+    },
+    "done": true
+  },
+  "survivallegends:root": {
+    "criteria": {
+      "yak": "2025-01-14 04:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-01-14 04:49:01 +0000",
+      "minecraft:cherry_grove": "2025-01-14 05:42:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-14 05:43:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-01-14 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2025-01-14 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
